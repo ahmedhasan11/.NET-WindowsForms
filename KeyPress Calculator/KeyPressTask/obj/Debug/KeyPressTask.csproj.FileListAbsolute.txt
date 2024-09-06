@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.Form1.resources
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.Properties.Resources.resources
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.csproj.GenerateResource.cache
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\bin\Debug\KeyPressTask.exe.config
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\bin\Debug\KeyPressTask.exe
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\bin\Debug\KeyPressTask.pdb
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.exe
+C:\Users\user\source\repos\KeyPressTask\KeyPressTask\obj\Debug\KeyPressTask.pdb
