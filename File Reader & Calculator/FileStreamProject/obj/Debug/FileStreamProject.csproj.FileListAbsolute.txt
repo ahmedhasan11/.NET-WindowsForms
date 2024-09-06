@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.exe.config
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.exe
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\bin\Debug\FileStreamProject.pdb
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.Form1.resources
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.Properties.Resources.resources
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.exe
+C:\Users\user\source\repos\FileStreamProject\FileStreamProject\obj\Debug\FileStreamProject.pdb
